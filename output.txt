@@ -1,5 +1,12 @@
-Topic: What are comments?
-Video: Comments (05)
-Where exactly in the video (based on subtitles): From 188.0 to 190.0
+Topic: Comments
 
-What the learner should do: Watch the start of the "Comments" section from 188.0 onwards to understand what comments are.
+Lecture details:
+Title: Comments
+Lecture number: 05
+Video timestamps: 754.0-756.0
+
+Explanation: In programming, comments are used to add notes or explanations to the code.
+
+Learning steps:
+- Step 1: Comments start with a tilde (~) character and are used to provide additional information about the code.
+- Step 2: Followed by the character you want to insert, such as text or other symbols.
